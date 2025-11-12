@@ -1,0 +1,25 @@
+{
+  "name": "redtalwar",
+  "displayName": "RedTalwar",
+  "description": "",
+  "version": "1.0.1",
+  "icon": "logo.png",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Red Talwar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Red Talwar-color-theme.json"
+      }
+    ]
+  }
+}
