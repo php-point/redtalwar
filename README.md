@@ -13,10 +13,10 @@ Perfect for developers who love deep contrast and a blazing red accent 🔥
 - 🧠 Balanced colors for long coding sessions  
 
 ## Screenshots 
-![Screenshot](./screenshot/1.png)
-![Screenshot](./screenshot/2.png)
-![Screenshot](./screenshot/3.png)
-![Screenshot](./screenshot/4.png)
+![Screenshot](./screenshots/1.png)
+![Screenshot](./screenshots/2.png)
+![Screenshot](./screenshots/3.png)
+![Screenshot](./screenshots/4.png)
 
 ---
 **Enjoy!**
