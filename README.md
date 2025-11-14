@@ -12,5 +12,11 @@ Perfect for developers who love deep contrast and a blazing red accent 🔥
 - 🌙 Looks stunning in both dark and dimly-lit environments  
 - 🧠 Balanced colors for long coding sessions  
 
+## Screenshots 
+![Screenshot](./screenshot/1.png)
+![Screenshot](./screenshot/2.png)
+![Screenshot](./screenshot/3.png)
+![Screenshot](./screenshot/4.png)
+
 ---
 **Enjoy!**

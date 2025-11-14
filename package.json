@@ -1,11 +1,12 @@
 {
   "name": "redtalwar",
   "displayName": "RedTalwar",
-  "description": "",
+  "description": "best color theme",
   "version": "1.0.1",
   "icon": "logo.png",
+  "publisher": "phppoint",
   "repository": {
-    "url": ""
+    "url": "https://github.com/php-point/redtalwar.git"
   },
   "engines": {
     "vscode": "^1.105.0"
