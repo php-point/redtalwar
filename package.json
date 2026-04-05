@@ -2,7 +2,7 @@
   "name": "redtalwar",
   "displayName": "RedTalwar",
   "description": "best color theme",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "icon": "logo.png",
   "publisher": "phppoint",
   "repository": {
@@ -19,7 +19,7 @@
       {
         "label": "Red Talwar",
         "uiTheme": "vs-dark",
-        "path": "./themes/Red Talwar-color-theme.json"
+        "path": "./themes/Red-Talwar-color-theme.json"
       }
     ]
   }
